@@ -1,0 +1,21 @@
+{
+	"name": "abas",
+	"version": "0.1.0",
+	"devDependencies": {
+		"del": "^3.0.0",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^4.0.0",
+		"gulp-clean": "^0.4.0",
+		"gulp-connect": "^5.0.0",
+		"gulp-imagemin": "^3.4.0",
+		"gulp-livereload": "^3.8.1",
+		"gulp-uncss": "^1.0.6",
+		"gulp-unzip": "^1.0.0",
+		"gulp-zip": "^4.0.0",
+		"imagemin-pngquant": "^5.0.1"
+	},
+	"dependencies": {
+		"gulp-notify": "^3.2.0",
+		"gulp-plumber": "^1.2.0"
+	}
+}
